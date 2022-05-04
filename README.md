@@ -1,6 +1,6 @@
 ILSTP
 =====
-Hi! You are welcome to visit here!
+Hi! You are welcome to visit here!<br>
 This repository is used to release the code of ILSTP, a newly proposed model for session-based recommendation by our research team. **ILSTP** stands for **Integration of Long- and Short-Term Preferences for session-based recommendation**, which combines time interval embedding function, self-attention, hybrid aggregator, gated graph neural network, and attention aggregator to effectively integrate both users’ long- and short-term preferences together to produce accurate recommendations. The research paper of ILSTP will be published in the 2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2022).
 
 
